@@ -55,7 +55,7 @@ export function HeroSection() {
           </motion.div>
 
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold mb-6">
-            <span className="gradient-text">Dark</span>
+            <span className="gradient-text">Nova</span>
             <span className="text-white">Meet</span>
           </h1>
           
