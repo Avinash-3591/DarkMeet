@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'DarkMeet - Next-Gen Video Conferencing',
+    title: 'NovaMeet - Next-Gen Video Conferencing',
     description: 'Experience the future of video conferencing with AI-powered features',
     images: ['/og-image.png'],
   },
