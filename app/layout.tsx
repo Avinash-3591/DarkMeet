@@ -7,7 +7,7 @@ import { Toaster } from 'react-hot-toast'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'DarkMeet - Next-Gen Video Conferencing',
+  title: 'NovaMeet - Next-Gen Video Conferencing',
   description: 'Experience the future of video conferencing with AI-powered features, stunning dark UI, and seamless collaboration tools.',
   icons: {
     icon: '/icon.png',
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   authors: [{ name: 'DarkMeet Team' }],
   metadataBase: new URL('http://localhost:3000'),
   openGraph: {
-    title: 'DarkMeet - Next-Gen Video Conferencing',
+    title: 'NovaMeet - Next-Gen Video Conferencing',
     description: 'Experience the future of video conferencing with AI-powered features',
     type: 'website',
     images: ['/og-image.png'],
